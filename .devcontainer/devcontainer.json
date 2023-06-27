@@ -24,7 +24,8 @@
 			"extensions": [
 				"ms-dotnettools.csharp",
 				"ms-dotnettools.blazorwasm-companion",
-				"Postman.postman-for-vscode"
+				"Postman.postman-for-vscode",
+				"ms-dotnettools.csdevkit"
 			]
 		}
 	},
