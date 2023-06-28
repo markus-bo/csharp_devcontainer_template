@@ -25,7 +25,7 @@ Contains: *asp.net core 7.0*, *C# extension*, *C# dev kit*, *Git*
 
 
 #### Create new Xunit test project
-- run in terminal `dotnet new xunit -o PrimeService.Tests`
+- run in terminal `dotnet new xunit -o your_project_name.tests`
 
 ## Remark
 Tested on Windows 10 with VS Code 1.79.2
